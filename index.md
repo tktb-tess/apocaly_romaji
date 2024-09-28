@@ -40,19 +40,19 @@
 
 ## moraic nasal
 
-moraic nasalは後ろの文字にかかわらず __ṅ__ と表す。
+moraic nasalは後ろの文字にかかわらず __n̂__ と表す。
 
 例.  
-看板 kaṅbaṅ  
+看板 kan̂ban̂  
 谷 tani  
-単位 táṅi
+単位 tán̂i
 
 ## geminated consonant
 
 「ッ」は直後の子音を重ねる。鼻音の前の「ッ」は __x__ で表す。
 
 例.  
-血管 kekkaṅ  
+血管 kekkan̂  
 イッヌ íxnu
 
 ## hiatus
@@ -61,7 +61,7 @@ moraic nasalは後ろの文字にかかわらず __ṅ__ と表す。
 
 例.  
 アウグストゥス aügusẃtwusu  
-会う áḫü
+会う áĥü
 
 ## 長母音
 
@@ -69,7 +69,7 @@ moraic nasalは後ろの文字にかかわらず __ṅ__ と表す。
 外来語で「ー」で表す長音の場合、enダッシュ (–) を使う。
 
 例.  
-リンカーン rinká–ṅ  
+リンカーン rinká–n̂  
 ヘルメース herumé–su
 
 ## 合拗音
@@ -82,14 +82,14 @@ moraic nasalは後ろの文字にかかわらず __ṅ__ と表す。
 
 ## ハ行転呼など
 
-ハ行転呼により変化した _p_ は、ハ行に変化したものは __h__ で、ワ行に変化したものは __ḫ__ と表す。  
-旧仮名で「アフ(オウ)」「エフ(ヨウ)」「イフ(ユウ)」になるものはそれぞれ __aḫu, yeḫu, iḫu__ と表す。
+ハ行転呼により変化した _p_ は、ハ行に変化したものは __h__ で、ワ行に変化したものは __ĥ__ と表す。  
+旧仮名で「アフ(オウ)」「エフ(ヨウ)」「イフ(ユウ)」になるものはそれぞれ __aĥu, yeĥu, iĥu__ と表す。
 
 例.  
-逢瀬 áḫuse  
-今日 kyéḫu  
-十 zíḫu  
-狼 óḫokami
+逢瀬 áĥuse  
+今日 kyéĥu  
+十 zíĥu  
+狼 óĥokami
 
 ## アクセント
 
@@ -141,16 +141,16 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 |ヴュ|vyu|
 
 例.  
-テューリンゲン thyu–ríṅgeṅ  
+テューリンゲン thyu–rín̂gen̂  
 デュアル dhyúaru  
 デジャヴュ, デジャビュ dézyavyu, dézyabyu  
-カートゥーン ka–twu–ṅ
+カートゥーン ka–twu–n̂
 
 
 ## 例文「世界人権宣言　第一条」
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete no niṅgeṅ ḫá umare nágara ni syte ziyíu de ári, kátw, soṅgéṅ to kéṅri to ni túite byañdoñ de áru. Niṅgeṅ ḫá ríseñ to ryáñsiṅ to wo sazukeráre te wori, tagai ni doñhau no séñsiṅ wo mótte kañdoñ sinákereba naránai.
+Súbete no nin̂gen̂ ĥá umare nágara ni syte ziyíu de ári, kátw, son̂gén̂ to kén̂ri to ni túite byañdoñ de áru. Nin̂gen̂ ĥá ríseñ to ryáñsin̂ to wo sazukeráre te wori, tagai ni doñhau no séñsin̂ wo mótte kañdoñ sinákereba naránai.
 
 
