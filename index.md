@@ -43,7 +43,9 @@
 moraic nasalは後ろの文字にかかわらず __ṅ__ と表す。
 
 例.  
-看板 kaṅbaṅ
+看板 kaṅbaṅ  
+谷 tani  
+単位 táṅi
 
 ## geminated consonant
 
