@@ -169,7 +169,7 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 テューリンゲン thyu\~ríngen  
 デュアル dhyúaru  
 デジャヴュ, デジャビュ dézyavyu, dézyabyu  
-カートゥーン ka\~twu\~n
+カートゥーン ka\~twú\~n
 
 ## 例文「世界人権宣言　第一条」„Sékaizinkenséngen dái ití dyeu“
 
