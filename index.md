@@ -1,4 +1,4 @@
-# 日本語のラテン文字新正書法
+# 異界ローマ字 „Yikairo~mázi“
 
 ## 声母
 
@@ -35,16 +35,16 @@
 旧仮名で「エイ」「オウ」「アウ(オウ)」「ヤウ(ヨウ)」になるもののうち、中古漢語の _ng_ 韻尾に由来するものはそれぞれ __eñ, oñ, añ, yañ__ と表す。
 
 例.  
-東京 toñkyañ  
-栄華 eñga
+東京 toñkyañ´  
+栄華 éñga
 
 ## moraic nasal
 
-moraic nasalは後ろの文字にかかわらず __n̂__ と表す。
+moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただし後ろに母音か _y_ が来る場合代わりに __n__ と表記する。
 
 例.  
-看板 kan̂ban̂  
-谷 tani  
+看板 kanban´  
+谷 taní  
 単位 tán̂i
 
 ## geminated consonant
@@ -52,7 +52,7 @@ moraic nasalは後ろの文字にかかわらず __n̂__ と表す。
 「ッ」は直後の子音を重ねる。鼻音の前の「ッ」は __x__ で表す。
 
 例.  
-血管 kekkan̂  
+血管 kekkan´  
 イッヌ íxnu
 
 ## hiatus
@@ -61,16 +61,17 @@ moraic nasalは後ろの文字にかかわらず __n̂__ と表す。
 
 例.  
 アウグストゥス aügusẃtwusu  
-会う áĥü
+会う áĥü  
+喚いた wameḯta
 
 ## 長母音
 
 和語・漢語の長母音は上のルールに従い綴る。  
-外来語で「ー」で表す長音の場合、enダッシュ (–) を使う。
+外来語で「ー」で表す長音の場合、チルダ (~) を使う。
 
 例.  
-リンカーン rinká–n̂  
-ヘルメース herumé–su
+リンカーン rinká~n  
+ヘルメース herumé~su
 
 ## 合拗音
 
@@ -93,23 +94,43 @@ moraic nasalは後ろの文字にかかわらず __n̂__ と表す。
 
 ## アクセント
 
-最後のnFモーラがある母音に対しアキュートアクセント (__´__) を付与する。  
-平板型の場合はどこにも付かないが、助詞が付く場合そこに付く。
+最後のnFモーラがある母音に対し鋭アクセント (__´__) を付与する。  
+平板型の場合は単語の右側に鋭アクセントを置くが、助詞が付く場合その最初のモーラに鋭アクセントを付け、置いた鋭アクセントは消す。
 
 例.  
-端 hasi  
+端 hasi´  
 橋 hasí  
 箸 hási  
 端が hasi gá  
 橋が hasí ga  
 箸が hási gá
 
+### 鈍アクセント
+
+「の」や「から」などが付くとアクセントの位置が変わる場合がある。その時は元の位置のアクセントを鈍アクセント (__`__) に変え、新たな位置に鋭アクセントを置く。
+
+例.  
+花が haná ga  
+花の hanà nó  
+扉さえ tobirasáĥe  
+扉から tobirakàrá
+
+### 「昨日」類
+
+「昨日」類は例外的に長母音を表す二重母音字の後ろに鋭アクセントを付ける。
+
+例.  
+昨日 kinoú  
+昨日の kinoù nó
+
+より詳しくは[こちら](./article/accent.md)を参照。
+
 ## 無声化
 
 _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 
 例.  
-筆記体 hikkytai  
+筆記体 hikkytai´  
 草刈り kwsakári
 
 ## ヤ行・ワ行まわり
@@ -117,9 +138,13 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 ワ行一段動詞の活用や一部の派生語で出てくるワ行の「イ」「エ」は __wi, we__ と表記する。  
 助詞「を」は __wo__ と表す。
 
+外来語などで「ウィ」「ウェ」「イェ」などの音を表す際は代わりに __ŷ, ŵ__ を使う。
+
 例.  
 植える uwerú  
-用いる motiwíru
+用いる motiwíru  
+ウィキペディア ŵikypédhia  
+イェルサレム ŷerusáremu
 
 ## 外来音
 
@@ -141,16 +166,15 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 |ヴュ|vyu|
 
 例.  
-テューリンゲン thyu–rín̂gen̂  
+テューリンゲン thyu~ríngen  
 デュアル dhyúaru  
 デジャヴュ, デジャビュ dézyavyu, dézyabyu  
-カートゥーン ka–twu–n̂
+カートゥーン ka~twu~n
 
-
-## 例文「世界人権宣言　第一条」„Sékaizin̂ken̂sén̂gen̂ dái ití dyeu“
+## 例文「世界人権宣言　第一条」„Sékaizinkenséngen dái ití dyeu“
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete no nin̂gen̂ ĥá umare nágara ni syte ziyíu de ári, kátw, son̂gén̂ to kén̂ri to ni túite byañdoñ de áru. Nin̂gen̂ ĥá ríseñ to ryáñsin̂ to wo sadukeráre te wori, tagaï ni doñhau no séñsin̂ wo mótte kañdoñ sinákereba naránai.
+Súbete no ningen ĥá umare nágara ni syte ziyíu de ári, kátw, songén to kénri to ni túite byañdoñ de áru. Ningen ĥá ríseñ to ryáñsin to wo sadukeráre te wori, tagaï ni doñhau no séñsin wo mótte kañdoñ sinákereba naránai.
 
 
