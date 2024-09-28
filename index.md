@@ -40,17 +40,17 @@
 
 ## moraic nasal
 
-moraic nasalは後ろの文字にかかわらず __n__ と表す。
+moraic nasalは後ろの文字にかかわらず __n̦__ と表す。
 
 例.  
-看板 kanban
+看板 kan̦ban̦
 
 ## geminated consonant
 
 「ッ」は直後の子音を重ねる。鼻音の前の「ッ」は __x__ で表す。
 
 例.  
-血管 kekkan  
+血管 kekkan̦  
 イッヌ íxnu
 
 ## hiatus
@@ -67,7 +67,7 @@ moraic nasalは後ろの文字にかかわらず __n__ と表す。
 外来語で「ー」で表す長音の場合、enダッシュ (–) を使う。
 
 例.  
-リンカーン rinká–n  
+リンカーン rinká–n̦  
 ヘルメース herumé–su
 
 ## 合拗音
@@ -139,16 +139,16 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 |ヴュ|vyu|
 
 例.  
-テューリンゲン thyu–ríngen  
+テューリンゲン thyu–rín̦gen̦  
 デュアル dhyúaru  
 デジャヴュ, デジャビュ dézyavyu, dézyabyu  
-カートゥーン ka–twu–n
+カートゥーン ka–twu–n̦
 
 
 ## 例文「世界人権宣言　第一条」
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete no ningen ḫá umare nágara ni syte ziyíu de ári, kátw, songén to kénri to ni túite byañdoñ de áru. Ningen ḫá ríseñ to ryáñsin to wo sazukeráre te wori, tagaini doñhau no séñsin wo mótte kañdoñ sinákereba naránai.
+Súbete no nin̦gen̦ ḫá umare nágara ni syte ziyíu de ári, kátw, son̦gén̦ to kén̦ri to ni túite byañdoñ de áru. Nin̦gen̦ ḫá ríseñ to ryáñsin̦ to wo sazukeráre te wori, tagai ni doñhau no séñsin̦ wo mótte kañdoñ sinákereba naránai.
 
 
