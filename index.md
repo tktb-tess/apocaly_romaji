@@ -147,10 +147,10 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 カートゥーン ka–twu–n̂
 
 
-## 例文「世界人権宣言　第一条」
+## 例文「世界人権宣言　第一条」„Sékaizin̂ken̂sén̂gen̂ dái ití dyeu“
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete no nin̂gen̂ ĥá umare nágara ni syte ziyíu de ári, kátw, son̂gén̂ to kén̂ri to ni túite byañdoñ de áru. Nin̂gen̂ ĥá ríseñ to ryáñsin̂ to wo sazukeráre te wori, tagai ni doñhau no séñsin̂ wo mótte kañdoñ sinákereba naránai.
+Súbete no nin̂gen̂ ĥá umare nágara ni syte ziyíu de ári, kátw, son̂gén̂ to kén̂ri to ni túite byañdoñ de áru. Nin̂gen̂ ĥá ríseñ to ryáñsin̂ to wo sadukeráre te wori, tagaï ni doñhau no séñsin̂ wo mótte kañdoñ sinákereba naránai.
 
 
