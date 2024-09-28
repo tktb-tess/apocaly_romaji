@@ -144,3 +144,11 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 デジャヴュ, デジャビュ dézyavyu, dézyabyu  
 カートゥーン ka–twu–n
 
+
+## 例文「世界人権宣言　第一条」
+
+すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
+
+Súbete no ningen ḫá umare nágara ni syte ziyíu de ári, kátw, songén to kénri to ni túite byañdoñ de áru. Ningen ḫá ríseñ to ryáñsin to wo sazukeráre te wori, tagaini doñhau no séñsin wo mótte kañdoñ sinákereba naránai.
+
+
