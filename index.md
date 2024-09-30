@@ -1,4 +1,4 @@
-# 異界ローマ字 „Yikairoomázi“
+# 怪像ローマ字 „Kwaizañroomázi“
 
 ## 声母
 
