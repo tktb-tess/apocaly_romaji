@@ -1,4 +1,4 @@
-# 異界ローマ字 „Yikairo\~mázi“
+# 異界ローマ字 „Yikairoomázi“
 
 [こちらから](./index.md)
 

@@ -1,4 +1,4 @@
-# 異界ローマ字 „Yikairo\~mázi“
+# 異界ローマ字 „Yikairoomázi“
 
 ## 声母
 
@@ -29,68 +29,81 @@
 旧仮名で「アウ(オウ)」になるものは __au__、「エウ(ヨウ)」になるものは __yeu__ と表す。  
 「エイ」は __ei__ である。
 
-例.  
-奥義 áugi
+|例.||
+|:---|:---|
+|奥義|áugi|
+|奇妙|kímyeu|
+|恩恵|onkwei´|
 
 旧仮名で「エイ」「オウ」「アウ(オウ)」「ヤウ(ヨウ)」になるもののうち、中古漢語の _ng_ 韻尾に由来するものはそれぞれ __eñ, oñ, añ, yañ__ と表す。
 
-例.  
-東京 toñkyañ´  
-栄華 éñga
+|例.||
+|:---|:---|
+|東京|toñkyañ´|
+|栄華|éñga|
+|王様|añsama´|
 
 ## moraic nasal
 
 moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただし後ろに母音か _y_ が来る場合代わりに __n̂__ と表記する。
 
-例.  
-看板 kanban´  
-谷 taní  
-単位 tán̂i
+|例.||
+|:---|:---|
+|看板|kanban´|
+|谷|taní|
+|単位|tán̂i|
 
 ## geminated consonant
 
 「ッ」は直後の子音を重ねる。鼻音の前の「ッ」は __x__ で表す。
 
-例.  
-血管 kekkan´  
-イッヌ íxnu
+|例.||
+|:---|:---|
+|血管|kekkan´|
+|イッヌ|íxnu|
 
 ## hiatus
 
 ヒアートゥス（母音連続）で _au, ei, ou_ などの長母音と表記が被ってしまうものは後ろの母音字にトレマ (¨) を付す。
 
-例.  
-アウグストゥス aügusẃtwusu  
-会う áĥü  
-喚いた waméïta
+|例.||
+|:---|:---|
+|アウグストゥス|aügusẃtwusu|
+|会う|áĥü|
+|喚いた|waméïta|
 
 ## 長母音
 
 和語・漢語の長母音は上のルールに従い綴る。  
-外来語で「ー」で表す長音の場合、チルダ (\~) を使う。
+外来語で「ー」で表す長音の場合、直前の母音を重ねる。
 
-例.  
-リンカーン rinká\~n  
-ヘルメース herumé\~su
+|例.||
+|:---|:---|
+|リンカーン|rinkáan|
+|ヘルメース|heruméesu|
 
 ## 合拗音
 
-合拗音の「クヮ」は __kwa__ と表記する。
+合拗音の「クヮ」「ク𛅑(小書きのヱ)」はそれぞれ __kwa, kwe__ と表記する。
 
-例.  
-家事 kázyi  
-火事 kwázyi
+|例.||
+|:---|:---|
+|家事|kázyi|
+|火事|kwázyi|
+
+動詞「蹴る」は _kwéru_ と綴る。
 
 ## ハ行転呼など
 
 ハ行転呼により変化した _p_ は、ハ行に変化したものは __h__ で、ワ行に変化したものは __ĥ__ と表す。  
 旧仮名で「アフ(オウ)」「エフ(ヨウ)」「イフ(ユウ)」になるものはそれぞれ __aĥu, yeĥu, iĥu__ と表す。
 
-例.  
-逢瀬 áĥuse  
-今日 kyéĥu  
-十 zíĥu  
-狼 óĥokami
+|例.||
+|:---|:---|
+|逢瀬|áĥuse|
+|今日|kyéĥu|
+|十|zíĥu|
+|狼|óĥokami|
 
 ## アクセント
 
@@ -98,24 +111,27 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 ## 無声化
 
-_i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
+_i_ の無声化は __y__, _u_ の無声化は __h__ と表す。
 
-例.  
-筆記体 hikkytai´  
-草刈り kwsakári
+|例.||
+|:---|:---|
+|筆記体|hikkytai´|
+|草刈り|khsakári|
 
 ## ヤ行・ワ行まわり
 
 ワ行一段動詞の活用や一部の派生語で出てくるワ行の「イ」「エ」は __wi, we__ と表記する。  
 助詞「を」は __wo__ と表す。
 
-外来語などで「ウィ」「ウェ」「イェ」などの音を表す際は代わりに __ŷ, ŵ__ を使う。
+外来語などで「ウィ」「ウェ」「ウォ」「イェ」などの音を表す際は代わりに __ẃi, ẃe, ẃo, ýe__ を使う。
 
-例.  
-植える uwerú  
-用いる motiwíru  
-ウィキペディア ŵikypédhia  
-イェルサレム ŷerusáremu
+|例.||
+|:---|:---|
+|植える|uwérú|
+|用いる|motíwíru|
+|絶える|táyéru|
+|ウィキペディア|ẃikypédhia|
+|イェルサレム|Ýerusáremu|
 
 ## 外来音
 
@@ -136,16 +152,17 @@ _i_ の無声化は __y__, _u_ の無声化は __w__ と表す。
 |フュ|fyu|
 |ヴュ|vyu|
 
-例.  
-テューリンゲン thyu\~ríngen  
-デュアル dhyúaru  
-デジャヴュ, デジャビュ dézyavyu, dézyabyu  
-カートゥーン ka\~twú\~n
+|例.||
+|:---|:---|
+|テューリンゲン|Thyuuríngen|
+|デュアル|dhyúaru|
+|デジャヴュ, デジャビュ|dézyavyu, dézyabyu|
+|カートゥーン|kaatwúun|
 
-## 例文「世界人権宣言　第一条」„Sékaizinkenséngen dái ití dyeu“
+## 例文「世界人権宣言　第一条」„Sékai/zinkenséngen dái ití dyeu“
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nô ningen ĥá umarenágara ni syte ziyíu de ári, kátw, songén to kénri to ni túite byañdoñ dé áru. Ningen ĥá ríseñ to ryáñsin to wo sadùkeráretê wóri, tagaĥi ni doñhau nó séñsin wo mótte kañdoñ´ sinákereba nàránaî.
+Súbete nò ningen ĥá umarenágara ni syte ziyíu de ári, kátw, songén to kénri to ni túite byañdoñ dé áru. Ningen ĥá ríseñ to ryáñsin to wo sadúkeráretè wóri, tagaĥi ni doñhau nó séñsin wo mótte kañdoñ´ sinákereba náránaì.
 
 
