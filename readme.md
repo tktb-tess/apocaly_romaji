@@ -1,4 +1,4 @@
-# 怪像ローマ字 „Kwaizañroomázi“
+# 終末式ローマ字 „Syuñmatusykiroomázi“
 
 [こちらから](./index.md)
 
