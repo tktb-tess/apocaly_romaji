@@ -1,4 +1,4 @@
-# 終末式ローマ字 „Syuñmatusykiroomázi“
+# 終末式ローマ字 „Syug̃matusykiroomázi“
 
 ## 声母
 
@@ -37,18 +37,18 @@
 
 ## _ng_ 韻尾
 
-旧仮名で「エイ」「オウ」「アウ(オウ)」「ヤウ(ヨウ)」になるもののうち、中古音の _ng_ 韻尾に由来するものはそれぞれ __eñ, oñ, añ, yañ__ と表す。
+旧仮名で「エイ」「オウ」「アウ(オウ)」「ヤウ(ヨウ)」になるもののうち、中古音の _ng_ 韻尾に由来するものはそれぞれ __eg̃, og̃, ag̃, yag̃__ と表す。
 
 |例.||
 |:---|:---|
-|東京|toñkyañˊ|
-|栄華|éñga|
-|王様|añsamaˊ|
+|東京|tog̃kyag̃ˊ|
+|栄華|ég̃ga|
+|王様|ag̃samaˊ|
 
 ## 「ム」由来の「ウ」
 
 中世日本語（あるいはさらに前段階）の「ム」から来ている「ウ」は __m̃__ と表す。  
-母音の音は _ñ_ と同様に変化する。
+母音の音は _g̃_ と同様に変化する。
 
 |例.||
 |:---|:---|
@@ -78,7 +78,7 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 |:---|:---|:---|
 |勝った|kátta||
 |血管|ketquanˊ|ketu \+ quan なので|
-|立証|ritsyañ|「立」の音は本来リュウ _riĥu_ であるが、これは慣用音リツ _ritu_ からの派生語であるので _rih́_ ではなく _rit_ とする。|
+|立証|ritsyag̃|「立」の音は本来リュウ _riĥu_ であるが、これは慣用音リツ _ritu_ からの派生語であるので _rih́_ ではなく _rit_ とする。|
 |イッヌ|íxnu||
 
 ## ヒアートゥス
@@ -191,6 +191,6 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nò ningen ĥá umarenágara ni sịte ziyíu de ári, kátụ, songém to kénri to ni túite byañdoñ dé áru. Ningen ĥá ríseñ to ryáñsim to wo sadúkeráretè wóri, tagaĥi ní doñhau nô séñsin wo mótte kañdoñˊ sinákereba náránaì.
+Súbete nò ningen ĥá umarenágara ni sịte ziyíu de ári, kátụ, songém to kénri to ni túite byag̃dog̃ dé áru. Ningen ĥá ríseg̃ to ryág̃sim to wo sadúkeráretè wóri, tagaĥi ní dog̃hau nô ség̃sin wo mótte kag̃dog̃ˊ sinákereba náránaì.
 
 
