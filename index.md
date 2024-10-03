@@ -33,7 +33,7 @@
 |:---|:---|
 |奥義|áugi|
 |奇妙|kímyeu|
-|恩恵|onqueiˊ|
+|恩恵|onkweiˊ|
 
 ## _ng_ 韻尾
 
@@ -57,16 +57,16 @@
 
 ## moraic nasal
 
-moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただし後ろに母音か _y_ が来る場合代わりに __n̂__ と表記する。  
-中古音の _m_ 韻尾に由来するものは例外的に __m, m̂__ と表記する。
+moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただし後ろに母音か _y_ が来る場合代わりに __ṇ__ と表記する。  
+中古音の _m_ 韻尾に由来するものは例外的に __m, ṃ__ と表記する。
 
 |例.||
 |:---|:---|
 |看板|kanbanˊ|
 |谷|taní|
-|単位|tán̂yi|
+|単位|táṇyi|
 |参加|samkaˊ|
-|三位|sám̂yi|
+|三位(さんい)|sáṃyi|
 
 ## geminated consonant
 
@@ -80,6 +80,16 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 |血管|ketquanˊ|ketu \+ quan なので|
 |立証|ritsyag̃|「立」の音は本来リュウ _riĥu_ であるが、これは慣用音リツ _ritu_ からの派生語であるので _rih́_ ではなく _rit_ とする。|
 |イッヌ|íxnu||
+
+## 連濁
+
+複合語で後ろの要素の頭子音が濁音化することがある。このとき元の字と対応する濁音の文字の上付き文字 (__ᵍ, ᶻ, ᵈ, ᵇ__) を前に置く。
+
+|例.||
+|:---|:---|
+|綿菓子|wataᵍkwási|
+|日差し|hiᶻsasiˊ|
+|桟橋|sanᵇhasiˊ|
 
 ## ヒアートゥス
 
@@ -103,14 +113,14 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 ## 合拗音
 
-合拗音の「クヮ」「ク𛅑(小書きのヱ)」はそれぞれ __qua, que__ と表記する。
+合拗音の「クヮ」「ク𛅑(小書きのヱ)」はそれぞれ __kwa, kwe__ と表記する。
 
 |例.||
 |:---|:---|
 |家事|kázyi|
-|火事|quázyi|
+|火事|kwázyi|
 
-動詞「蹴る」は _quéru_ と綴る。
+動詞「蹴る」は _kwéru_ と綴る。
 
 ## ハ行転呼など
 
@@ -191,6 +201,6 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nò ningen ĥá umarenágara ni sịte ziyíu de ári, kátụ, songém to kénri to ni túite byag̃dog̃ dé áru. Ningen ĥá ríseg̃ to ryág̃sim to wo sadúkeráretè wóri, tagaĥi ní dog̃hau nô ség̃sin wo mótte kag̃dog̃ˊ sinákereba náránaì.
+Súbete nò ningen ĥá umarenágara ni sịté ʻ ziyíu de ári, kátụ, songém to kénri to ni túite byag̃dog̃ dé áru. Ningen ĥá ríseg̃ to ryág̃sim to wo sadúkeráretè wóri, tagaĥi ní dog̃hau nô ség̃sin wo mótte kag̃dog̃ˊ ʼ sinákereba náránaì.
 
 
