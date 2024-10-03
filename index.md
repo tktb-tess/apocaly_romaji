@@ -1,4 +1,4 @@
-# 終末式ローマ字 „Syug̃matusykiroomázi“
+# 終末式ローマ字 «Syug̃matusịkiroomázi»
 
 ## 声母
 
