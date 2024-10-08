@@ -17,5 +17,5 @@
 
 終末式:  
 Zinruwisyáquai nò súbete nò kouséğwin nò koyiu nô songém to byağdoğ dé yudúrú kotò nó dékínaì kénri to wo syoğninˈ˼ suruˈ kotó ĥa, sékai ni okeru ziyíu, séğgi˼ óyobi heğwa nô kị́so de áru no de,  
-zinken nô músi˼ óyobi kéğbu ga, zínruwi nò ryáğsin wo huminizírta yabankáğwi wo motarási, genronˈ˼ óyobi sinkağ nô ziyíu ga úkeráˌre, kyóğhu˼ óyobi quetuboĥu nô nái sékai nò
+zinken nô músi˼ óyobi kéğbu ga, zínruwi nò ryáğsin wo huminizírta yabankáğwi wo motarási, genronˈ˼ óyobi sinkağ nô ziyíu ga úkerárè, kyóğhu˼ óyobi quetuboĥu nô nái sékai nò
 
