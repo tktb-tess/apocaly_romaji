@@ -198,7 +198,6 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 |ヴュ|vyu|
 |ツァ行|c|
 
-
 |例.||
 |:---|:---|
 |パーティー|páḥthiḥ|
@@ -212,6 +211,6 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nò ningen ĥá umarenágara ni sịté˺ ziḯu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
+Súbete nò ningen ĥá umarenágara ni sịté˺ ziyíu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
 
 
