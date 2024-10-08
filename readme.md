@@ -1,4 +1,4 @@
-# 終末式ローマ字 «Syuğmatusịkiroomázi»
+# 終末式ローマ字 «Syuğmatusịkiroḥmázi»
 
 [こちらから](./index.md)
 
