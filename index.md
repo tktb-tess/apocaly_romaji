@@ -88,7 +88,7 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 |例.||
 |:---|:---|
-|バッグ|báxgw|
+|バッグ|báxgu|
 |あっぱれ|axḧare|
 
 ## 連濁
@@ -207,10 +207,5 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 |カートゥーン|kaḥtwúḥn|
 |ツァーリ|cáḥri|
 
-## 例文「世界人権宣言 第一条」«Sékai˼zinkenséngen dái itídyeu»
-
-すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
-
-Súbete nò ningen ĥá umarenágara ni sịté˺ ziḯu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
 
 
