@@ -16,6 +16,10 @@
 すべての人民とすべての国とが達成すべき共通の基準として、この世界人権宣言を公布する。
 
 終末式:  
-Zinruwisyáquai nò súbete nò kouséğwin nò koyiu nô songém to byağdoğ dé yudúrú kotò nó dékínaì kénri to wo syoğninˈ˼ suruˈ kotó ĥa, sékai ni okeru ziyíu, séğgi˼ óyobi heğwa nô kị́so de áru no de,  
-zinken nô músi˼ óyobi kéğbu ga, zínruwi nò ryáğsin wo huminizírta yabankáğwi wo motarási, genronˈ˼ óyobi sinkağ nô ziyíu ga úkerárè, kyóğhu˼ óyobi quetuboĥu nô nái sékai nò
+Zinruwisyákwai nò súbete nò kouséğwin nò koïu nô songém to byağdoğ dé yudúrú kotò nó dékínaì kénri to wo syoğninˈ˼ suruˈ kotó ĥa, sékai ni okeru ziyíu, séğgi˼ óyobi heğwa nô kị́so de áru no de,  
+zinken nô músi˼ óyobi kéğbu ga, zínruwi nò ryáğsin wo huminizírta yabankáğwi wo motarási, genronˈ˼ óyobi sinkağ nô ziḯu ga úkerárè, kyóğhu˼ óyobi kwetuboĥu nô nái sékai nò taurai gá, itḧan nô hitóbhito nò saikau nô guanbağ tó sịté sengén˼ saretá no de,  
+ningen gá sensei tó atḧaku tó ni taisúru sáigo nò syúdan to sịté
+
+
+
 

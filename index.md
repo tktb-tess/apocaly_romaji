@@ -34,7 +34,7 @@
 |:---|:---|
 |奥義|áugi|
 |奇妙|kímyeu|
-|恩恵|onqueiˈ|
+|恩恵|onkweiˈ|
 |口座|kouzaˈ|
 |有限|iugenˈ|
 
@@ -81,23 +81,23 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 |例.||備考|
 |:---|:---|:---|
 |勝った|kátta||
-|血管|ketquanˈ|ketu \+ quan なので|
+|血管|ketkwanˈ|ketu \+ kwan なので|
 |立証|ritsyağ|「立」の音は本来リュウ _riĥu_ であるが、<br>これは慣用音リツ _ritu_ からの派生語であるので<br>_rih_ ではなく _rit_ とする。|
 
 外来語の促音や、強調、その他の「ッ」は __x__ で表す。
 
 |例.||
 |:---|:---|
-|バッグ|báxgu|
+|バッグ|báxgw|
 |あっぱれ|axḧare|
 
 ## 連濁
 
-複合語で後ろの要素の頭子音が濁音化することがある。このとき対応する濁音の子音字 (__g, z, d, b__) を前につけ (__gk, gqu, zs, dt, bh__) と表す。
+複合語で後ろの要素の頭子音が濁音化することがある。このとき対応する濁音の子音字 (__g, z, d, b__) を前につけ (__gk, gkw, zs, dt, bh__) と表す。
 
 |例.||
 |:---|:---|
-|綿菓子|watagquási|
+|綿菓子|watagkwási|
 |日差し|hizsasiˈ|
 |スズメバチ|suzumébhati|
 
@@ -124,15 +124,15 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 ## 合拗音
 
-合拗音の「クヮ」「クヱ」はそれぞれ __qua, que__ と表記する。  
-「グヮ」「グヱ」は __gua, gue__ とする。
+合拗音の「クヮ」「クヱ」はそれぞれ __kwa, kwe__ と表記する。  
+「グヮ」「グヱ」は __gwa, gwe__ とする。
 
 |例.||
 |:---|:---|
 |家事|kázi|
-|火事|quázi|
+|火事|kwázi|
 
-動詞「蹴る」は _quéru_ と綴る。
+動詞「蹴る」は _kwéru_ と綴る。
 
 ## ハ行転呼など
 
@@ -211,6 +211,6 @@ moraic nasalは後ろの文字にかかわらず基本 __n__ と表す。ただ�
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nò ningen ĥá umarenágara ni sịté˺ ziyíu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
+Súbete nò ningen ĥá umarenágara ni sịté˺ ziḯu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
 
 

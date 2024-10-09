@@ -34,8 +34,8 @@
 |高笑|kausyeu|kaw sjewH|
 |交鈔|kausyeu|kaew tsrhaew|
 |交渉|kausyeĥuˈ|kaew dzyep|
-|鉱床|quausyağˈ|kwaengX dzrjang|
-|黄鐘|quağsyağˈ|hwang tsyowng|
+|鉱床|kwausyağˈ|kwaengX dzrjang|
+|黄鐘|kwağsyağˈ|hwang tsyowng|
 |工匠|koğsyağˈ|kuwng dzjangH|
 |工商|koğsyağ|kuwng syang|
 |公傷|koğsyağ|kuwng syang|
