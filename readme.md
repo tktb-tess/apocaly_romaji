@@ -1,4 +1,4 @@
-# 終末式ローマ字 «Syuğmatusịkiro–mázi»
+# 終末式ローマ字 «Syuğmatusǐkiro–mázi»
 
 [こちらから](./index.md)
 
