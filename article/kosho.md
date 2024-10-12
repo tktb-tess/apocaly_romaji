@@ -26,14 +26,14 @@
 |翱翔|kausyağ|ngaw zjang|
 |康正|kausyağ|khang tsyengH|
 |康尚|kausyağ|khang dzyangH|
-|甲匠|kaĥusyağ|kaep dzjangH|
+|甲匠|kaĥsyağ|kaep dzjangH|
 |考証|kausyoğˈ|khawX tsyingH|
 |高承|kausyoğ|kaw dzying|
 |講頌|kağsyoğ|kaewngX zjowngH|
 |巧笑|kausyeu|khaewX sjewH|
 |高笑|kausyeu|kaw sjewH|
 |交鈔|kausyeu|kaew tsrhaew|
-|交渉|kausyeĥuˈ|kaew dzyep|
+|交渉|kausyeĥˈ|kaew dzyep|
 |鉱床|kwausyağˈ|kwaengX dzrjang|
 |黄鐘|kwağsyağˈ|hwang tsyowng|
 |工匠|koğsyağˈ|kuwng dzjangH|

@@ -9,7 +9,7 @@ Toğouwó oĥoĥú hoğwáğnǫ̀ wáğnǫ̀ wówo wağwağ oĥám̆.
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbetęnǫ̀ ningenĥá umarenágarani sǐté˺ ziḯude ári, kátu, songémtǫ kénritǫni túite byağdoğdé áru. Ningenĥá ríseğtǫ ryáğsimtǫwo sadúkęráretè wóri, tagaĥïní doğhaunǫ̂ séğsinwo mǫ́tte kağdoğˈ˼ sinákęreba náránaġì.
+Súbętenǫ̀ ningenĥá umarenágarani sǐté˺ ziḯude ári, kátu, songémtǫ kénritǫni túite byağdoğdé áru. Ningenĥá ríseğtǫ ryáğsimtǫwo sadúkęráretè wóri, tagaĥïní doğhaunǫ̂ séğsinwo mǫ́tte kağdoğˈ˼ sinákęreba náránaġì.
 
 ## 「世界人権宣言 前文」«Sékai˼zinkenséngen zenbunˈ»
 
