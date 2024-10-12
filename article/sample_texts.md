@@ -3,13 +3,13 @@
 ## 短文
 
 東欧を覆う鳳凰の王の尾を往々追おう。  
-Toğou wó oĥoĥǘ hoğwáğ nò wáğ nò wó wo wağwağ oĥám̆.
+Toğouwó oĥoĥú hoğwáğnǫ̀ wáğnǫ̀ wówo wağwağ oĥám̆.
 
 ## 「世界人権宣言 第一条」«Sékai˼zinkenséngen dái itídyeu»
 
 すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
 
-Súbete nò ningen ĥá umarenágara ni sịté˺ ziḯu de ári, kátụ, songém to kénri to ni túite byağdoğ dé áru. Ningen ĥá ríseğ to ryáğsim to wo sadúkeráretè wóri, tagaĥi ní doğhau nô séğsin wo mótte kağdoğˈ˼ sinákereba náránaì.
+Súbetęnǫ̀ ningenĥá umarenágarani sǐté˺ ziḯude ári, kátu, songémtǫ kénritǫni túite byağdoğdé áru. Ningenĥá ríseğtǫ ryáğsimtǫwo sadúkęráretè wóri, tagaĥïní doğhaunǫ̂ séğsinwo mǫ́tte kağdoğˈ˼ sinákęreba náránaġì.
 
 ## 「世界人権宣言 前文」«Sékai˼zinkenséngen zenbunˈ»
 
@@ -25,9 +25,6 @@ Súbete nò ningen ĥá umarenágara ni sịté˺ ziḯu de ári, kátụ, song
 これらの権利と自由との尊重を指導及び教育によって促進すること並びにそれらの普遍的かつ効果的な承認と遵守とを国内的及び国際的な漸進的措置によって確保することに努力するように、  
 すべての人民とすべての国とが達成すべき共通の基準として、この世界人権宣言を公布する。
 
-Zinruwisyákwai nò súbete nò kouséğwin nò koïu nô songém to byağdoğ dé yudúrú kotò nó dékínaì kénri to wo syoğninˈ˼ suruˈ kotó ĥa, sékai ni okeru ziḯu, séğgi˼ óyobi heğwa nô kị́so de áru no de,  
-zinken nô músi˼ óyobi kéğbu ga, zínruwi nò ryáğsin wo huminizírta yabankáğwi wo motarási, genronˈ˼ óyobi sinkağ nô ziḯu ga úkerárè, kyóğhu˼ óyobi kwetuboĥu nô nái sékai nò taurai gá, itḧan nô hitóbhito nò saikau nô gwanbağ tó sịté sengén˼ saretá no de,  
-ningen gá sensei tó atḧaku tó ni taisúru sáigo nò syúdan to sịté hangyaku ní urtáĥéru kotó ga nái yáğni surú tamé ni ĥa,  
-（以下未完成）
+
 
 
