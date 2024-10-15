@@ -9,6 +9,7 @@
     --mycolor-blue: #1d3a9b;
     --mycolor-gray: #cfcfcf;
     --mycolor-gray2: #ececec;
+    --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     --sans-font: 'Inter', 'Source Han Sans', sans-serif;
     --serif-font: 'Times New Roman', 'Source Han Serif', serif;
 }
@@ -63,6 +64,7 @@ table {
     border-collapse: collapse;
     background-color: white;
     margin: 20px 0;
+    box-shadow: var(--my-shadow);
 
     > * > * > th,
     > * > * > td {
