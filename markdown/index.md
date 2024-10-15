@@ -1,6 +1,6 @@
-# 終末式ローマ字 «Syuğmatusǐkiro–mázi»
+# 終末式ローマ字&emsp;«Syuğmatusǐkiro–mázi»
 
-[「こうしょう」の書き分け](./article/kosho.md)
+[「こうしょう」の書き分け](./article/kosho.html)
 
 ## 頭子音
 
@@ -115,7 +115,6 @@ _ai, oi, ui_ において、この _i_ がオフグライドではなく、核�
 |例.||
 |:---|:---|
 |故意|kóï|
-|||
 
 ## 長母音
 
@@ -232,7 +231,7 @@ _aĥi, uĥi, oĥi, aĥu, eĥi, oĥu_ などの _Vĥi, Vĥu_ や _VĥV_（Vは同
 
 ## アクセント
 
-内容が多いため別ページに分割した。[こちら](./article/accent.md)を参照。
+内容が多いため別ページに分割した。[こちら](./article/accent.html)を参照。
 
 ## 無声化
 

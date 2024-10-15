@@ -1,5 +1,5 @@
-# 終末式ローマ字 «Syuğmatusǐkiro–mázi»
+# 終末式ローマ字&emsp;«Syuğmatusǐkiro–mázi»
 
-[こちらから](./index.md)
+終わりのローマ字
 
 
