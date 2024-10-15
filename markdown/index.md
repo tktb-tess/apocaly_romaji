@@ -153,7 +153,7 @@ _aĥi, uĥi, oĥi, aĥu, eĥi, oĥu_ などの _Vĥi, Vĥu_ や _VĥV_（Vは同
 |今日|kyéĥu|
 |十|zíĥu|
 |狼|óĥokamį|
-|甥|woĥįˈ|
+|誘い|sasoĥį̈́|
 |紺碧|komh́ekiˈ|
 |思う|omǫ́ĥü|
 |思った|omǫ́hta|
