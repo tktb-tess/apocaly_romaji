@@ -12,6 +12,12 @@
     --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     --sans-font: 'Inter', 'Arial', 'Source Han Sans', sans-serif;
     --serif-font: 'Times New Roman', 'Source Han Serif', serif;
+    --size-h1: calc(1.3rem + 1.2vw);
+    --size-h2: calc(1.3rem + 0.6vw);
+    --size-h3: calc(1.275rem + 0.3vw);
+    --size-h4: 1.25rem;
+    --size-h5: 1rem;
+    --size-h6: 1rem;
 }
 
 body {
@@ -29,16 +35,27 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     text-align: center;
+    font-size: var(--size-h1);
 }
 
 h2 {
+    font-size: var(--size-h2);
     border-bottom: double 3px var(--mycolor-darkgray);
     padding-left: 0.2rem;
     line-height: 1.4;
 }
 
 h3 {
+    font-size: var(--size-h3);
     padding-left: 0.3rem;
+}
+
+h4 {
+    font-size: var(--size-h4);
+}
+
+h5, h6 {
+    font-size: var(--size-h5);
 }
 
 p, ul {

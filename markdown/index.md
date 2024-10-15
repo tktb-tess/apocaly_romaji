@@ -1,4 +1,4 @@
-# 終末式ローマ字&emsp;«Syuğmatusǐkiro–mázi»
+# 終末式ローマ字<br>«Syuğmatusǐkiro–mázi»
 
 [「こうしょう」の書き分け](./article/kosho.html)
 
