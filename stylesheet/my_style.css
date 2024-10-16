@@ -1,6 +1,18 @@
 /* Import Noto Sans + Serif JP */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
 
+@font-face {
+    font-family: myInter;
+    font-style: normal;
+    src: url("../font/Inter/Inter-VariableFont_opsz\,wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: myInter;
+    font-style: italic;
+    src: url("../font/Inter/Inter-Italic-VariableFont_opsz\,wght.ttf") format("truetype");
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
 }
@@ -11,8 +23,10 @@
     --mycolor-blue: #1d3a9b;
     --mycolor-gray: #cfcfcf;
     --mycolor-gray2: #ececec;
-    --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    --sans-font: 'Inter', 'Arial', 'Noto Sans JP', sans-serif;
+    --mycolor-pale-black: #00000023;
+    --my-shadow: 0 0.125rem 0.25rem #00000013;
+    --my-shadow2: 0 0 0.25rem 0.125rem #00000013;
+    --sans-font: myInter, 'Arial', 'Noto Sans JP', sans-serif;
     --serif-font: 'Times New Roman', 'Noto Serif JP', serif;
     --size-h1: calc(1.3rem + 1.2vw);
     --size-h2: calc(1.3rem + 0.6vw);
@@ -25,19 +39,61 @@
 body {
     background-color: var(--mycolor-white);
     font-family: var(--sans-font);
-    width: 80%;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
     margin: 0 auto;
+    padding: 0 0.75rem;
+    box-shadow: var(--my-shadow2);
+}
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1320px;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--serif-font);
-    font-weight: 540;
+    font-family: var(--sans-font);
+    font-weight: 400;
     color: var(--mycolor-darkgray);
+    margin-top: 0;
 }
 
-h1.article {
-    text-align: center;
+h1 {
     font-size: var(--size-h1);
+
+    &.article {
+        text-align: center;
+        margin: 0;
+        padding: 1.25rem 0;
+    }
 }
 
 h2 {
@@ -64,11 +120,13 @@ h5, h6 {
 
 p, ul {
     margin-left: 0.6rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
 }
 
 a {
     text-decoration: none;
-    transition: 70ms ease-out;
+    transition: 70ms ease-in-out;
     color: var(--mycolor-blue);
 
     &:hover {
