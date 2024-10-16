@@ -1,3 +1,5 @@
+/* Import Noto Sans + Serif JP */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -5,13 +7,13 @@
 
 :root {
     --mycolor-white: #f8f9fa;
-    --mycolor-darkgray: #22292c;
+    --mycolor-darkgray: #2d3d44;
     --mycolor-blue: #1d3a9b;
     --mycolor-gray: #cfcfcf;
     --mycolor-gray2: #ececec;
     --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    --sans-font: 'Inter', 'Arial', 'Source Han Sans', sans-serif;
-    --serif-font: 'Times New Roman', 'Source Han Serif', serif;
+    --sans-font: 'Inter', 'Arial', 'Noto Sans JP', sans-serif;
+    --serif-font: 'Times New Roman', 'Noto Serif JP', serif;
     --size-h1: calc(1.3rem + 1.2vw);
     --size-h2: calc(1.3rem + 0.6vw);
     --size-h3: calc(1.275rem + 0.3vw);
@@ -28,12 +30,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--sans-font);
-    font-weight: 500;
+    font-family: var(--serif-font);
+    font-weight: 540;
     color: var(--mycolor-darkgray);
 }
 
-h1 {
+h1.article {
     text-align: center;
     font-size: var(--size-h1);
 }
