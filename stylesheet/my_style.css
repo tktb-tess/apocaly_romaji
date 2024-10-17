@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* Import Noto Sans + Serif JP */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
 
@@ -13,9 +15,7 @@
     src: url("../font/Inter/Inter-Italic-VariableFont_opsz\,wght.ttf") format("truetype");
 }
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
     box-sizing: border-box;
 }
 
@@ -52,7 +52,7 @@ body {
 .container {
     width: 100%;
     margin: 0 auto;
-    padding: 0 0.75rem;
+    padding: 0.1rem 0.75rem;
     box-shadow: var(--my-shadow2);
 }
 
@@ -87,12 +87,7 @@ body {
 }
 
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: var(--sans-font);
     font-weight: 400;
     color: var(--mycolor-darkgray);
@@ -106,8 +101,8 @@ h1 {
 
     &.article {
         text-align: center;
-        margin: 0;
-        padding: 1.25rem 0;
+        margin: 1.25rem 0;
+        padding: 0;
     }
 }
 
@@ -134,8 +129,7 @@ h6 {
     margin-left: 0.3rem;
 }
 
-p,
-ul {
+p, ul {
     margin-left: 0.5rem;
     margin-top: 0;
     margin-bottom: 0.8rem;
@@ -163,8 +157,8 @@ table {
     background-color: white;
     box-shadow: var(--my-shadow);
 
-    >*>*>th,
-    >*>*>td {
+    > * > * > th,
+    > * > * > td {
         border: solid 0.01em;
         border-color: var(--mycolor-gray);
         padding: 0.3em 0.6em;
@@ -172,26 +166,26 @@ table {
         text-wrap: nowrap;
     }
 
-    >*>*>td {
+    > * > * > td {
         text-align: left;
     }
 
-    >*>*>th {
+    > * > * > th {
         font-weight: 500;
         text-align: center;
     }
 
-    >*>tr:nth-child(even) {
+    > * > tr:nth-child(even) {
         background-color: var(--mycolor-gray2);
     }
 
-    &.text-centre>*>*>td,
-    &.text-centre>*>*>th {
+    &.text-centre > * > * > td,
+    &.text-centre > * > * > th {
         text-align: center;
     }
 
-    &.text-right>*>*>td,
-    &.text-right>*>*>th {
+    &.text-right > * > * > td,
+    &.text-right > * > * > th {
         text-align: right;
     }
 }
