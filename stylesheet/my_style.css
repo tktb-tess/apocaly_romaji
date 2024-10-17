@@ -37,6 +37,10 @@
     --size-h6: 1rem;
 }
 
+html {
+    font-size: 1em;
+}
+
 body {
     background-color: var(--mycolor-white);
     font-family: var(--sans-font);
@@ -209,3 +213,4 @@ table {
 .text-right {
     text-align: right;
 }
+
