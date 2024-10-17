@@ -25,6 +25,7 @@
     --mycolor-blue-rgb: 29, 58, 155;
     --mycolor-gray: #cfcfcf;
     --mycolor-gray2: rgba(0, 0, 0, 0.05);
+    --mycolor-gray3: #747474;
     --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     --my-shadow2: 0 0 0.25rem 0.125rem rgba(0, 0, 0, 0.075);
     --sans-font: myInter, 'Arial', 'Noto Sans JP', sans-serif;
@@ -219,5 +220,33 @@ table {
     fill: currentColor;
     vertical-align: middle;
     height: 0.8rem;
+}
+
+.page-top-button {
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+
+    a {
+        display: block;
+        text-align: center;
+        background-color: transparent;
+        border: solid 1px var(--mycolor-gray3);
+        color: var(--mycolor-gray3);
+        border-radius: 50%;
+        padding: 12px;
+
+        &:hover {
+            background-color: var(--mycolor-gray3);
+            color: var(--mycolor-white);
+        }
+    }
+
+    .bi-chevron-up {
+        display: inline;
+        fill: currentColor;
+        vertical-align: middle;
+        height: 1.5rem;
+    }
 }
 
