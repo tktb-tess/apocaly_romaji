@@ -30,9 +30,9 @@
     --sans-font: myInter, 'Arial', 'Noto Sans JP', sans-serif;
     --serif-font: 'Times New Roman', 'Noto Serif JP', serif;
     --size-h1: calc(1.3rem + 1.2vw);
-    --size-h2: calc(1.3rem + 0.6vw);
-    --size-h3: calc(1.275rem + 0.3vw);
-    --size-h4: 1.25rem;
+    --size-h2: calc(1.275rem + 0.3vw);
+    --size-h3: 1.25rem;
+    --size-h4: 1rem;
     --size-h5: 1rem;
     --size-h6: 1rem;
 }
@@ -134,7 +134,7 @@ h6 {
 
 p,
 ul {
-    margin-left: 0.6rem;
+    margin-left: 0.5rem;
     margin-top: 0;
     margin-bottom: 0.8rem;
 }
@@ -212,5 +212,12 @@ table {
 
 .text-right {
     text-align: right;
+}
+
+.bi-box-arrow-up-right {
+    display: inline;
+    fill: currentColor;
+    vertical-align: middle;
+    height: 0.8rem;
 }
 
