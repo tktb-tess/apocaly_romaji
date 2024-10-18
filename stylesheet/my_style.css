@@ -145,6 +145,12 @@ a {
     transition: 70ms ease-in-out;
     color: rgb(var(--mycolor-blue-rgb));
 
+    &.link-disabled {
+        cursor: default;
+        color: initial;
+        pointer-events: none;
+    }
+
     &:hover {
         color: rgba(var(--mycolor-blue-rgb), 0.7);
     }
@@ -152,7 +158,6 @@ a {
 
 .table-container {
     overflow-x: auto;
-    max-width: 100%;
     margin-top: 1.0rem;
     margin-bottom: 0.25rem;
     padding: 0 1.5rem;
@@ -163,6 +168,11 @@ table {
     background-color: white;
     box-shadow: var(--my-shadow);
     margin-bottom: 0.75rem;
+
+    &.table-center {
+        margin-left: auto;
+        margin-right: auto;
+    }
 
     > * > * > th,
     > * > * > td {
