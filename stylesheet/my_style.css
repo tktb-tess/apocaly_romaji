@@ -146,7 +146,6 @@ a {
     color: rgb(var(--mycolor-blue-rgb));
 
     &.link-disabled {
-        cursor: default;
         color: initial;
         pointer-events: none;
     }
