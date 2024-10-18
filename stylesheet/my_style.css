@@ -102,13 +102,20 @@ h1 {
 
     &.article {
         text-align: center;
+        text-wrap: nowrap;
         margin: 1.25rem auto;
-        max-width: 60%;
+        max-width: 80%;
         padding-top: 0.2rem;
         padding-bottom: 0.55rem;
         box-shadow: var(--my-shadow2);
         border-radius: 10px;
     }
+
+    @media (min-width: 768px) {
+        &.article {
+            max-width: 60%;
+        }
+    }    
 }
 
 h2 {
