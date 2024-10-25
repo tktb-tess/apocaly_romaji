@@ -36,6 +36,7 @@
     --size-h4: 1rem;
     --size-h5: 0.875rem;
     --size-h6: 0.75rem;
+    --my-transition: 80ms ease-in-out;
 }
 
 html {
@@ -148,7 +149,8 @@ h6 {
 
 p, ul {
     margin-top: 0;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.75rem;
+    
 }
 
 p {
@@ -157,17 +159,21 @@ p {
 
 a {
     text-decoration: none;
-    transition: 70ms ease-in-out;
+    transition: var(--my-transition);
     color: rgb(var(--mycolor-blue-rgb));
+
+    @media (hover: hover) and (pointer: fine) {
+        &:hover {
+            color: rgba(var(--mycolor-blue-rgb), 0.7);
+        }
+    }
 
     &.link-disabled {
         color: initial;
         pointer-events: none;
     }
 
-    &:hover {
-        color: rgba(var(--mycolor-blue-rgb), 0.7);
-    }
+    
 }
 
 .table-container {
@@ -262,10 +268,14 @@ table {
         border-radius: 50%;
         padding: 12px;
 
-        &:hover {
-            background-color: var(--mycolor-gray3);
-            color: var(--mycolor-white);
+        @media (hover: hover) and (pointer: fine) {
+            &:hover {
+                background-color: var(--mycolor-gray3);
+                color: var(--mycolor-white);
+            }
         }
+
+        
     }
 
     .bi-chevron-up {
