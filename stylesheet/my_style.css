@@ -1,4 +1,4 @@
-@charset "utf-8";
+@charset "UTF-8";
 
 /* Import Noto Sans/Serif JP */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
@@ -191,7 +191,7 @@ table {
     box-shadow: var(--my-shadow);
     margin-bottom: 0.75rem;
 
-    &.table-center {
+    &.table-centre {
         margin-left: auto;
         margin-right: auto;
     }
@@ -203,14 +203,28 @@ table {
         padding: 0.3em 0.6em;
         vertical-align: middle;
         text-wrap: nowrap;
-    }
-
-    > * > * > td {
         text-align: left;
     }
 
     > * > * > th {
         font-weight: 500;
+    }
+
+    &.text-centre-td > * > * > td,
+    &.text-centre-th > * > * > th,
+    &.text-centre-tdth > * > * > td,
+    &.text-centre-tdth > * > * > th {
+        text-align: center;
+    }
+
+    &.text-right-td > * > * > td,
+    &.text-right-th > * > * > th,
+    &.text-right-tdth > * > * > td,
+    &.text-right-tdth > * > * > th {
+        text-align: right;
+    }
+
+    &.text-centre-1st > tbody > * > td:first-child {
         text-align: center;
     }
 
@@ -218,15 +232,7 @@ table {
         background-color: var(--mycolor-gray2);
     }
 
-    &.text-centre > * > * > td,
-    &.text-centre > * > * > th {
-        text-align: center;
-    }
-
-    &.text-right > * > * > td,
-    &.text-right > * > * > th {
-        text-align: right;
-    }
+    
 }
 
 hr {
