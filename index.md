@@ -2,6 +2,8 @@
 
 # 終末式ローマ字<br>«Syuğmatusǐkiro–mázi»
 
+**リニューアル中。このページは暫定的なもので、情報が古いのであしからず。**
+
 - [「こうしょう」の書き分け](article/kosho.md)
 - [アクセント](article/accent.md)
 - [例文集](article/sample_texts.md)
