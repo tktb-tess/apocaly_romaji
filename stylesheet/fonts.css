@@ -45,3 +45,30 @@
     src: url("../font/Inter28pt/Inter28pt-BoldItalic.woff2") format("woff2");
 }
 
+@font-face {
+    font-family: "UQ Web Serif";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../font/UQWebSerif/UQwebserif.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "UQ Web Serif";
+    font-style: italic;
+    font-weight: 400;
+    src: url("../font/UQWebSerif/UQwebserif-Italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "UQ Web Serif";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../font/UQWebSerif/UQwebserif-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "UQ Web Serif";
+    font-style: italic;
+    font-weight: 700;
+    src: url("../font/UQWebSerif/UQwebserif-BoldItalic.woff2") format("woff2");
+}
