@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+/* Import Noto Sans/Serif JP */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../font/Inter28pt/Inter28pt.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: italic;
+    font-weight: 400;
+    src: url("../font/Inter28pt/Inter28pt-Italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../font/Inter28pt/Inter28pt-Medium.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: italic;
+    font-weight: 500;
+    src: url("../font/Inter28pt/Inter28pt-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: normal;
+    font-weight: 700;
+    src: url("../font/Inter28pt/Inter28pt-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter28pt;
+    font-style: italic;
+    font-weight: 700;
+    src: url("../font/Inter28pt/Inter28pt-BoldItalic.woff2") format("woff2");
+}
+

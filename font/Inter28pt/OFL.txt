@@ -1,4 +1,5 @@
 Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+Converted to woff2 format copyright (c) 2024 Akane Tokotoba
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
