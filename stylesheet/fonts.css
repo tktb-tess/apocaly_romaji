@@ -6,42 +6,42 @@
     font-family: Inter28pt;
     font-style: normal;
     font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt.woff2") format("woff2");
 }
 
 @font-face {
     font-family: Inter28pt;
     font-style: italic;
     font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt-Italic.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Italic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: Inter28pt;
     font-style: normal;
     font-weight: 500;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt-Medium.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Medium.woff2") format("woff2");
 }
 
 @font-face {
     font-family: Inter28pt;
     font-style: italic;
     font-weight: 500;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt-MediumItalic.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-MediumItalic.woff2") format("woff2");
 }
 
 @font-face {
     font-family: Inter28pt;
     font-style: normal;
     font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt-Bold.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Bold.woff2") format("woff2");
 }
 
 @font-face {
     font-family: Inter28pt;
     font-style: italic;
     font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter28pt/Inter28pt-BoldItalic.woff2") format("woff2");
+    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-BoldItalic.woff2") format("woff2");
 }
 
 @font-face {
