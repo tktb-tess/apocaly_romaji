@@ -246,6 +246,10 @@ hr {
     font-family: var(--serif-font);
 }
 
+.font-noto-tc {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
 .text-centre {
     text-align: center;
 }
