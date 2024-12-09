@@ -15,7 +15,7 @@
     --mycolor-gray3: #686868;
     --mycolor-hr: rgba(0, 0, 0, 0.4);
     --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    --my-shadow2: 0 0 0.25rem 0.125rem rgba(0, 0, 0, 0.075);
+    --my-shadow2: 0 0 5px 0px rgba(0, 0, 0, 0.25);
     --sans-font: Inter28pt, Arial, 'Noto Sans JP', sans-serif;
     --serif-font: 'UQ Web Serif', 'Brill', 'Times New Roman', 'Noto Serif JP', serif;
     --size-h1: calc(1.3rem + 1.2vw);
@@ -43,44 +43,23 @@ body {
 
 /* container */
 .container {
+    display: flow-root;
     width: 100%;
     min-height: 100vh;
     margin: 0 auto;
-    padding: 1px 0.75rem;
+    padding: 0 0.75rem;
     box-shadow: var(--my-shadow2);
-}
 
-@media (min-width: 576px) {
-    .container {
-        max-width: 540px;
-    }
-}
-
-@media (min-width: 768px) {
-    .container {
-        max-width: 720px;
-    }
-}
-
-@media (min-width: 992px) {
-    .container {
-        max-width: 960px;
-    }
-}
-
-@media (min-width: 1200px) {
-    .container {
+    @media (min-width: 1200px) {
         max-width: 1140px;
     }
-}
-
-@media (min-width: 1400px) {
-    .container {
+    
+    @media (min-width: 1400px) {
         max-width: 1320px;
     }
 }
 
-p,h2,h3,h4,h5,h6,ul,table {
+p, h2, h3, h4, h5, h6, ul, table {
     margin-top: 0;
     margin-bottom: 1.5rem;
 }
@@ -94,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: var(--size-h1);
     text-align: center;
-    text-wrap: nowrap;
+    text-wrap: balance;
     margin: 1.25rem auto;
     width: max-content;
     padding-top: 0.2rem;
@@ -102,8 +81,8 @@ h1 {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     box-shadow: var(--my-shadow2);
-    border-radius: 10px;
-    line-height: 1.6;
+    border-radius: 20px;
+    line-height: 1.75;
 }
 
 h2 {
@@ -122,13 +101,14 @@ h4, h5, h6, p, ul {
     margin-left: 0.75rem;
 }
 
-li > ul {
-    margin-bottom: 0.5rem;
+li > ul, li > ol {
+    margin: 0;
+    padding-bottom: 0.25rem;
 }
 
 ul {
     padding-left: 1.5rem;
-    list-style-type: "\25b8   ";
+    list-style-type: "\25b8  ";
     
     &.unstyled {
         padding-left: 0;
@@ -160,17 +140,22 @@ a {
     }
 
     &.link-disabled {
-        color: initial;
+        color: inherit;
         pointer-events: none;
     }
 
-    
+    &.ext-link::after {
+        content: url("../svg/box-arrow-up-right.svg");
+        display: inline-block;
+        width: 0.75rem;
+        height: auto;
+        margin: 0 0.1rem;
+    }
 }
 
 table {
     border-collapse: collapse;
     background-color: white;
-    box-shadow: var(--my-shadow);
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -212,21 +197,6 @@ table {
     > * > tr:nth-child(even) {
         background-color: var(--mycolor-gray2);
     }
-
-    /* scrollbar */
-    &::-webkit-scrollbar {
-        width: 7px;
-        height: 7px;
-    }
-    
-    &::-webkit-scrollbar-thumb {
-        border-radius: 6px;
-        background-color: rgba(0, 0, 0, 0.375);
-    }
-    
-    &::-webkit-scrollbar-track {
-        background-color: var(--mycolor-white);
-    }
 }
 
 hr {
@@ -260,13 +230,6 @@ hr {
 
 .text-right {
     text-align: right;
-}
-
-.bi-box-arrow-up-right {
-    display: inline;
-    fill: currentColor;
-    vertical-align: middle;
-    height: 0.8rem;
 }
 
 button#btn-pagetop {
@@ -307,6 +270,5 @@ button#btn-pagetop {
             }
         }
     }
-    
 }
 
