@@ -4,6 +4,7 @@
 
 *, *::before, *::after {
     box-sizing: border-box;
+    overflow-wrap: anywhere;
 }
 
 :root {
@@ -16,8 +17,8 @@
     --mycolor-hr: rgba(0, 0, 0, 0.4);
     --my-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     --my-shadow2: 0 0 5px 0px rgba(0, 0, 0, 0.25);
-    --sans-font: Inter28pt, Arial, 'Noto Sans JP', sans-serif;
-    --serif-font: 'UQ Web Serif', 'Brill', 'Times New Roman', 'Noto Serif JP', serif;
+    --sans-font: 'InterVar', 'Arial', 'Noto Sans JP', sans-serif;
+    --serif-font: 'CharisSIL', 'Brill', 'Times New Roman', 'Noto Serif JP', serif;
     --size-h1: calc(1.3rem + 1.2vw);
     --size-h2: calc(1.275rem + 0.3vw);
     --size-h3: 1.25rem;
@@ -26,19 +27,19 @@
     --size-h6: 0.75rem;
     --my-transition: 80ms ease-in-out;
     --my-transition2: 120ms ease-in-out;
-}
-
-html {
     font-size: 1.0em;
     scroll-behavior: smooth;
 }
 
 body {
     background-color: var(--mycolor-white);
-    font-family: var(--sans-font);
     font-optical-sizing: auto;
     margin: 0;
     padding: 0;
+}
+
+:where(:lang(ja)) {
+    font-family: var(--sans-font);
 }
 
 /* container */
@@ -145,7 +146,7 @@ a {
     }
 
     &.ext-link::after {
-        content: url("../svg/box-arrow-up-right.svg");
+        content: url('/assets/svg/box-arrow-up-right.svg');
         display: inline-block;
         width: 0.75rem;
         height: auto;

@@ -5,71 +5,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'InterVar';
     font-style: normal;
-    font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt.woff2") format("woff2");
+    src: local("Inter"),
+        url("/assets/font/Inter/Inter-Variable.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'InterVar';
     font-style: italic;
-    font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Italic.woff2") format("woff2");
+    src: local("Inter Italic"),
+        url("/assets/font/Inter/Inter-Italic-Variable.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'CharisSIL';
     font-style: normal;
-    font-weight: 500;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Medium.woff2") format("woff2");
+    font-weight: 100 500;
+    src: local("Charis SIL"),
+        url("/assets/font/CharisSIL/CharisSIL-Regular.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'CharisSIL';
     font-style: italic;
-    font-weight: 500;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-MediumItalic.woff2") format("woff2");
+    font-weight: 100 500;
+    src: local("Charis SIL Italic"),
+        url("/assets/font/CharisSIL/CharisSIL-Italic.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'CharisSIL';
     font-style: normal;
-    font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-Bold.woff2") format("woff2");
+    font-weight: 600 900;
+    src: local("Charis SIL Bold"),
+        url("/assets/font/CharisSIL/CharisSIL-Bold.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter28pt;
+    font-family: 'CharisSIL';
     font-style: italic;
-    font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/Inter/Inter28pt-BoldItalic.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "UQ Web Serif";
-    font-style: normal;
-    font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/UQWebSerif/UQwebserif.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "UQ Web Serif";
-    font-style: italic;
-    font-weight: 400;
-    src: url("https://tktb-tess.github.io/tktb-source/font/UQWebSerif/UQwebserif-Italic.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "UQ Web Serif";
-    font-style: normal;
-    font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/UQWebSerif/UQwebserif-Bold.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "UQ Web Serif";
-    font-style: italic;
-    font-weight: 700;
-    src: url("https://tktb-tess.github.io/tktb-source/font/UQWebSerif/UQwebserif-BoldItalic.woff2") format("woff2");
+    font-weight: 600 900;
+    src: local("Charis SIL Bold Italic"),
+        url("/assets/font/CharisSIL/CharisSIL-BoldItalic.woff2") format("woff2");
 }
